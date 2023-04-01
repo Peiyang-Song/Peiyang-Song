@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Peiyang Song (he/him/his), currently a BS Candidate for Computer Science major, College of Creative Studies, UCSB.
-- 👀 My research interests mainly include Computer Vision, Natural Language Processing, and Deep Learning.
+- 👀 My research interests mainly include Machine Learning, Natural Language Processing, and Computer Vision.
 - 🌱 I’m currently learning NLP assisted with DL.
 - 💞️ I’m looking to collaborate on projects in computer science, not necessarily restricted to the research interests stated before! 
 - 📫 Please feel free to contact me by email p_song@ucsb.edu, as I check it frequently :)
