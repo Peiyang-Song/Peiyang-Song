@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Peiyang Song (he/him/his), an Honors CS undergrad in College of Creative Studies (CCS), University of California Santa Barbara (UCSB). I also work at Anima AI + Science Lab at Caltech.
+- 👋 Hi, I’m @Peiyang Song (he/him/his), an Honors CS undergrad in College of Creative Studies (CCS), UC Santa Barbara. I also work at Anima AI + Science Lab at Caltech.
 - 👀 My research interest is in Machine Learning (ML), from its applications in Natural Language Processing (NLP) and Computer Vision (CV), to its foundation in Systems and Programming Languages (PL).
 - 🌱 My recent research works are mainly in two directions: 1) neuro-symbolic reasoning and AI4Math combining Large Language Models (LLMs) with Interactive Theorem Provers (ITPs); 2) energy-efficient machine learning with temporal logic and other novel designs.
 - 💞️ I’d love to collaborate on projects related to machine learning, not necessarily restricted to the ones above!
