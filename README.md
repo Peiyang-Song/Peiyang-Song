@@ -1,7 +1,19 @@
-- 👋 I am a 4th-year undergraduate majoring in <b>Computer Science</b> at California Institute of Technology (<b>Caltech</b>), advised by Prof. <a style="text-decoration: none" target="_blank" href="https://netlab.caltech.edu/">Steven Low</a>, with a <b>Robotics</b> minor advised by Prof. <a style="text-decoration: none" target="_blank" href="https://scholar.google.com/citations?user=-YP8MJ0AAAAJ&hl=en">Günter Niemeyer</a>.
-- 🔎 My research focuses on <strong>LLM reasoning</strong>, <strong>agentic AI</strong>, and <strong>neuro-symbolic AI</strong>. I aim to advance intelligent agents capable of rigorous reasoning by combining the strengths of neural and symbolic paradigms. Feel free to visit my <a style="text-decoration: none" target="_blank" href="https://peiyang-song.github.io/">academic website</a> or <a style="text-decoration: none" target="_blank" href="https://scholar.google.com/citations?user=E1j11NQAAAAJ&hl=en">Scholar page</a> for more detailed information.
-- 📫 I am open to collaborations/discussions. Feel free to email me at psong@caltech.edu.
-<!---
-Peiyang-Song/Peiyang-Song is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Welcome to my Github Profile 👋
+
+I am <b>Peiyang Song</b>, a senior undergraduate majoring in <b>Computer Science</b> at <a target="_blank" href="https://www.caltech.edu/">California Institute of Technology</a> (<b>Caltech</b>), with a minor in <b>Robotics</b>.
+
+I build <strong>agentic reasoning systems</strong>: AI agents that can plan, act, verify, adapt, and improve over time. My work centers on making reasoning both <strong>capable</strong> and <strong>dependable</strong>, across formally verified environments and open-ended natural language. A recurring theme is leveraging structure—often <strong>neuro-symbolic</strong>—to provide control, interpretability, and reliability in increasingly autonomous systems.
+
+- <strong>(1) Advancing formal reasoning from static models to adaptive agents.</strong> In theorem proving, correctness is verifiable—but effective agency is hard. My work advances formal reasoning systems by enabling learning through environment and data infrastructures [[LeanDojo](https://arxiv.org/abs/2306.15626)], bringing learned capabilities back into the prover via neural-assisted automation [[Lean Copilot](https://arxiv.org/abs/2404.12534)] and human-centered tooling [[Human-AI Formalization](https://openreview.net/forum?id=D7I8fVkMVs)], and more recently moving beyond static prediction toward adaptive agents [[Adaptation](https://arxiv.org/abs/2512.16301)] that operate over evolving libraries [[LeanAgent](https://arxiv.org/abs/2410.06209)] and long-horizon contexts [[LeanProgress](https://arxiv.org/abs/2502.17925)].
+
+- <strong>(2) Diagnosing and strengthening reasoning in natural language.</strong> Outside formal systems, correctness guarantees disappear—so reliability must come from principled diagnosis. My work takes a human-grounded, failure-driven approach: connecting classic cognitive phenomena to modern LLM behavior [[A-Not-B](https://arxiv.org/abs/2409.15454)], examining context sensitivity and cultural fairness in language [[Idioms](https://arxiv.org/abs/2410.00988)], extending from individual failure modes to questioning foundational assumptions in behavioral evaluation [[Personality Illusion](https://arxiv.org/abs/2509.03730)] and developing a systematic framework for understanding and mitigating LLM reasoning failures [[Reasoning Failures](https://www.arxiv.org/abs/2602.06176)].
+
+- <strong>(3) Enhancing the efficiency of reasoning systems.</strong> I complement algorithmic advances with a system-level perspective, developing architectural and temporal arithmetic techniques for efficient computation [[Delay Space](https://ieeexplore.ieee.org/abstract/document/11082679)] [[DelayNet](https://dl.acm.org/doi/10.1145/3620665.3640395)].
+
+My long-term goal is to <strong>build AI systems whose reasoning is as creative as human intuition and as dependable as formal logic</strong>.
+
+You can find more about me and my work from my <a href="https://peiyang-song.github.io/">Personal Website</a> and <a href="https://scholar.google.com/citations?user=E1j11NQAAAAJ&hl=en">Google Scholar Page</a>.
+
+I'm always open to collaborations. Please feel free to email me at psong@caltech.edu.
+
+[Last Updated: Feb. 2026]
