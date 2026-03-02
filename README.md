@@ -1,4 +1,4 @@
-### Welcome to my Github Profile 👋
+### Welcome to my Github 👋
 
 I am <b>Peiyang Song</b>, a senior undergraduate majoring in <b>Computer Science</b> at <a target="_blank" href="https://www.caltech.edu/">California Institute of Technology</a> (<b>Caltech</b>), with a minor in <b>Robotics</b>.
 
