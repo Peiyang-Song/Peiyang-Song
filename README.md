@@ -1,6 +1,6 @@
 ### Welcome to my Github 👋
 
-I am <b>Peiyang Song</b>, a senior undergraduate majoring in <b>Computer Science</b> at <a target="_blank" href="https://www.caltech.edu/">California Institute of Technology</a> (<b>Caltech</b>), with a minor in <b>Robotics</b>.
+I am a fourth-year undergraduate majoring in <b>Computer Science</b> at <a target="_blank" href="https://www.caltech.edu/">California Institute of Technology</a> (<b>Caltech</b>) with a minor in <b>Robotics</b>, advised by Prof. <a target="_blank" href="https://netlab.caltech.edu/people/">Steven Low</a> and Prof. <a target="_blank" href="https://scholar.google.com/citations?user=-YP8MJ0AAAAJ&hl=en">Günter Niemeyer</a>.
 
 I build <strong>agentic reasoning systems</strong>: AI agents that can plan, act, verify, adapt, and improve over time. My work centers on making reasoning both <strong>capable</strong> and <strong>dependable</strong>, across formally verified environments and open-ended natural language. A recurring theme is leveraging structure—often <strong>neuro-symbolic</strong>—to provide control, interpretability, and reliability in increasingly autonomous systems.
 
