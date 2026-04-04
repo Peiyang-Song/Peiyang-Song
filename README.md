@@ -1,6 +1,6 @@
 ### Welcome to my Github 👋
 
-I am a fourth-year undergraduate majoring in <b>Computer Science</b> at California Institute of Technology (<a target="_blank" href="https://www.caltech.edu/">Caltech</a>) with a minor in <b>Robotics</b>, advised by Prof. <a target="_blank" href="https://netlab.caltech.edu/people/">Steven Low</a> and Prof. <a target="_blank" href="https://scholar.google.com/citations?user=-YP8MJ0AAAAJ&hl=en">Günter Niemeyer</a>. I am an incoming PhD student at Carnegie Mellon University (<a target="_blank" href="https://www.cmu.edu/">CMU</a>). I am affiliated with the Language Technologies Institute (<a target="_blank" href="https://www.lti.cs.cmu.edu/">LTI</a>) in the School of Computer Science, and the Institute for Computer-Aided Reasoning in Mathematics (<a target="_blank" href="https://icarm.io/">ICARM</a>). I am joining <a target="_blank" href="https://www.miromind.ai/">MiroMind</a> in June, working on verifiable reasoning agents.
+I am a senior undergraduate majoring in <b>Computer Science</b> at California Institute of Technology (<a target="_blank" href="https://www.caltech.edu/">Caltech</a>) with a minor in <b>Robotics</b>, advised by Prof. <a target="_blank" href="https://netlab.caltech.edu/people/">Steven Low</a> and Prof. <a target="_blank" href="https://scholar.google.com/citations?user=-YP8MJ0AAAAJ&hl=en">Günter Niemeyer</a>. I am an incoming PhD student at Carnegie Mellon University (<a target="_blank" href="https://www.cmu.edu/">CMU</a>), affiliated with the Language Technologies Institute (<a target="_blank" href="https://www.lti.cs.cmu.edu/">LTI</a>) in the School of Computer Science, and the Institute for Computer-Aided Reasoning in Mathematics (<a target="_blank" href="https://icarm.io/">ICARM</a>). I am joining <a target="_blank" href="https://www.miromind.ai/">MiroMind AI</a> in June, working with Dr. <a target="_blank" href="https://yangky11.github.io/">Kaiyu Yang</a> on verifiable reasoning agents.
 
 I build <strong>agentic reasoning systems</strong>: AI agents that can plan, act, verify, adapt, and improve over time. My work centers on making reasoning both <strong>capable</strong> and <strong>dependable</strong>, across formally verified environments and open-ended natural language. A recurring theme is leveraging structure—often <strong>neuro-symbolic</strong>—to provide control, interpretability, and reliability in increasingly autonomous systems.
 
@@ -12,8 +12,8 @@ I build <strong>agentic reasoning systems</strong>: AI agents that can plan, act
 
 My long-term goal is to <strong>build AI systems whose reasoning is as creative as human intuition and as dependable as formal logic</strong>.
 
-You can find more about me and my work from my <a href="https://peiyang-song.github.io/">Personal Website</a> and <a href="https://scholar.google.com/citations?user=E1j11NQAAAAJ&hl=en">Google Scholar Page</a>.
+You can find more about me and my work from my <a href="https://peiyang-song.github.io/">Personal Website</a> and <a href="https://scholar.google.com/citations?user=E1j11NQAAAAJ&hl=en">Google Scholar Profile</a>.
 
-I'm always open to collaborations. Please feel free to email me at psong@caltech.edu.
+Should we share any common interest, feel free to email me at psong@caltech.edu.
 
-[Last Updated: Feb. 2026]
+[Last Updated: Apr. 2026]
