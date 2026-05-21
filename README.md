@@ -6,7 +6,7 @@ I build <strong>agentic reasoning systems</strong>: AI agents that can plan, act
 
 - <strong>(1) Advancing formal reasoning from static models to adaptive agents.</strong> In theorem proving, correctness is verifiable—but effective agency is hard. My work advances formal reasoning systems by enabling learning through environment and data infrastructures [[LeanDojo](https://arxiv.org/abs/2306.15626)], bringing learned capabilities back into the prover via neural-assisted automation [[Lean Copilot](https://arxiv.org/abs/2404.12534)] and human-centered tooling [[Human-AI Formalization](https://openreview.net/forum?id=D7I8fVkMVs)], and more recently moving beyond static prediction toward adaptive agents [[Adaptation](https://arxiv.org/abs/2512.16301)] that operate over evolving libraries [[LeanAgent](https://arxiv.org/abs/2410.06209)] and long-horizon contexts [[LeanProgress](https://arxiv.org/abs/2502.17925)].
 
-- <strong>(2) Diagnosing and strengthening reasoning in natural language.</strong> Outside formal systems, correctness guarantees disappear—so reliability must come from principled diagnosis. My work takes a human-grounded, failure-driven approach: connecting classic cognitive phenomena to modern LLM behavior [[A-Not-B](https://arxiv.org/abs/2409.15454)], examining context sensitivity and cultural fairness in language [[Idioms](https://arxiv.org/abs/2410.00988)], extending from individual failure modes to questioning foundational assumptions in behavioral evaluation [[Personality Illusion](https://arxiv.org/abs/2509.03730)] and developing a systematic framework for understanding and mitigating LLM reasoning failures [[Reasoning Failures](https://www.arxiv.org/abs/2602.06176)].
+- <strong>(2) Diagnosing and strengthening reasoning in natural language.</strong> Outside formal systems, correctness guarantees disappear—so reliability must come from principled diagnosis. My work takes a human-grounded, failure-driven approach: connecting classic cognitive phenomena to modern LLM behavior [[A-Not-B](https://arxiv.org/abs/2409.15454)], examining context sensitivity and cultural fairness in language [[Idioms](https://arxiv.org/abs/2410.00988)], extending from individual failure modes to questioning foundational assumptions in behavioral evaluation [[Personality Illusion](https://arxiv.org/abs/2509.03730)] [[Interactive Evaluation](https://arxiv.org/abs/2605.17829)] and developing a systematic framework for understanding and mitigating LLM reasoning failures [[Reasoning Failures](https://www.arxiv.org/abs/2602.06176)].
 
 - <strong>(3) Enhancing the efficiency of reasoning systems.</strong> I complement algorithmic advances with a system-level perspective, developing architectural and temporal arithmetic techniques for efficient computation [[Delay Space](https://ieeexplore.ieee.org/abstract/document/11082679)] [[DelayNet](https://dl.acm.org/doi/10.1145/3620665.3640395)].
 
@@ -14,6 +14,6 @@ My long-term goal is to <strong>build AI systems whose reasoning is as creative 
 
 You can find more about me and my work from my <a href="https://peiyang-song.github.io/">Personal Website</a> and <a href="https://scholar.google.com/citations?user=E1j11NQAAAAJ&hl=en">Google Scholar Profile</a>.
 
-Should we share any common interest, feel free to email me at psong@caltech.edu.
+Should we share any common interest, feel free to email me at psong2@andrew.cmu.edu.
 
-[Last Updated: Apr. 2026]
+[Last Updated: May 2026]
